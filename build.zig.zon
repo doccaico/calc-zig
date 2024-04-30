@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .@"calc-c" = .{
-            .url = "https://github.com/doccaico/calc-c/archive/541041315be52d7d839ac980c19c16d3f9bff7eb.tar.gz",
-            .hash = "1220b11e8854ee286db5d55a1c08a61cf995a5f00fa0b6c299c6fb618d7385471292",
+            .url = "https://github.com/doccaico/calc-c/archive/3f5685873f784f7f10e754538cbb39fbec74e0fd.tar.gz",
+            .hash = "1220b7ccd0be3861dbe55bc8f5710a303a5a30b1ab4357d01b9e2dcb6da83dda6181",
         },
     },
     .paths = .{
