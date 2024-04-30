@@ -1,0 +1,13 @@
+.{
+    .name = "libcalc",
+    .version = "0.0.0",
+    .dependencies = .{
+        .@"calc-c" = .{
+            .url = "https://github.com/doccaico/calc-c/archive/9e2ce22cd15ab75658826f8b1cbf5e06a943212a.tar.gz",
+            .hash = "12200e90a73728237ff2cfde7a3d5b2d7575de820b39189f4a5412fe96ffa5bcd278",
+        },
+    },
+    .paths = .{
+        "build.zig",
+    },
+}
